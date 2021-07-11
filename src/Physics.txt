@@ -1,0 +1,10 @@
+Student,Present/Attendancepransh,Absent
+
+Pransh,Present
+
+tapesh,Absent
+
+sarthak,Present
+
+abc,Absent
+
